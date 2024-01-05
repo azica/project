@@ -1,0 +1,1 @@
+export { PassRecoveryForm } from "./PassRecoveryForm";

@@ -1,0 +1,1 @@
+export { ConsentLabel } from "./ConsentLabel";
